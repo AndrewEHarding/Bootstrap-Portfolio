@@ -1,1 +1,2 @@
 # Bootstrap-Portfolio
+I've remade my basic portfolio using no external CSS file and instead made use of the classes provided by Bootstrap fro the look and layout of my site. My Bootstrap Portfolio is also now live on my GitHub pages.
